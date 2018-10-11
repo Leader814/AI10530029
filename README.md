@@ -2,4 +2,4 @@
 Leader
 劉立德
 
-I am a student,I studing in CYUT.My interest sleep.
+I am a student,I studing in CYUT.My interest is sleep.
